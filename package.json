@@ -1,0 +1,38 @@
+{
+  "name": "array-prototype-cutAndPush",
+  "description": "A simple lightweight function for cut pice of array and push it to another array",
+  "version": "0.0.1",
+  "homepage": "https://github.com/spolischook/array-prototype-cutAndPush",
+  "author": {
+    "name": "Serhii Polishchuk",
+    "email": "spolischook@gmail.com",
+    "url": "http://kotoblog.pp.ua"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spolischook/array-prototype-cutAndPush.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spolischook/array-prototype-cutAndPush/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/spolischook/array-prototype-cutAndPush/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/array-prototype-cutAndPush",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.5"
+  },
+  "keywords": []
+}
