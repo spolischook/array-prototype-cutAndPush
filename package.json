@@ -1,5 +1,5 @@
 {
-  "name": "array-prototype-cutAndPush",
+  "name": "array-prototype-cut_and_push",
   "description": "A simple lightweight function for cut pice of array and push it to another array",
   "version": "0.0.1",
   "homepage": "https://github.com/spolischook/array-prototype-cutAndPush",
